@@ -1,13 +1,13 @@
 {
-  "token": "<discord api token>",
-  "client_id": "<bot client id>",
-  "youtube_api_key": "<youtube api key>",
+  "token": "NDY3ODcyMTQ3OTQ4MzA2NDMz.Dixn8Q.cGQqjyAnWCoN0ZT1wpiKkQult28",
+  "client_id": "467872147948306433",
+  "youtube_api_key": "AIzaSyBiLDVBNiv12oDAJJo2R8JUqiEDHS5WXL4",
   "prefix": ".",
   "game": "<playing status on discord>",
 
 
   "admins": {
-    "<userid on discord>": "<optional name>"
+    "292871335305019394": "Technology Help Bundaberg"
   },
 
   "welcome": {
